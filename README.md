@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ganathetechie
-- 👀 I’m interested in data science
+- 👀 I’m interested in tech and consulting.
 - 🌱 I’m currently diving deep into the concepts of data science and trying to embibe holistic understanding of the concepts with real world projects.
 - 📫 To reach me mail me at ganapathikakkirala@gmail.com
 - 🎯 Connect me on Linkedin at https://www.linkedin.com/in/ganapathi-kakkirala/
